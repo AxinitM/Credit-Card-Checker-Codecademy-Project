@@ -1,4 +1,4 @@
-# Challenge Project: Credit Card Checker / Codecademy Project  
+# Credit Card Checker / Codecademy Project  
 
 This is a solution to the **"Challenge Project: Credit Card Checker"** on Codecademy.  
 
@@ -7,7 +7,7 @@ Unlike previous Codecademy projects, this one contains **open-ended requirements
 ---
 
 ## Table of contents
-- [Challenge Project: Credit Card Checker / Codecademy Project](#challenge-project-credit-card-checker--codecademy-project)
+- [Credit Card Checker / Codecademy Project](#credit-card-checker--codecademy-project)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
   - [Project Goals](#project-goals)
