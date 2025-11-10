@@ -55,7 +55,6 @@ This project demonstrates your ability to work with **arrays, loops, conditional
 ## Links
 
 - **Project Description:** [Codecademy Project Page](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-building-interactive-websites/tracks/fecj-22-javascript-syntax-part-ii/modules/wdcp-22-credit-card-checker-354e6ce7-f8d4-4384-a866-8f408d4659ea/projects/credit-card-checker)  
-- **Source Code:** [https://github.com/AxinitM/excursion-platform](https://github.com/AxinitM/)  
 
 ---
 
